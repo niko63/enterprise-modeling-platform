@@ -25,5 +25,7 @@ docker run -p 5438:5432 --rm --name sirius-web-postgres -e POSTGRES_USER=USERNAM
 java -jar sirius-web-2025.10.0.jar --spring.datasource.url=jdbc:postgresql://localhost:5438/sirius-web-db --spring.datasource.username=USERNAME --spring.datasource.password=PASSWORD
 ```
 3. Open a web browser and go to: http://localhost:8080/projects
-You access the following and you can start to create projects and models. Enjoy!
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+You access the following and you can start to create projects and models. Enjoy!  
+
+![alt text](https://github.com/niko63/sirius-web-modeling-platform/blob/main/SiriusWebPlatform.png)
