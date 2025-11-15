@@ -1,10 +1,10 @@
-# sirius-web-modeling-platform
+# Modeling web-platform
 
-Welcome to the sirius-web platform modeling.  
+Welcome to the Modeling web-platform. It offers several modelling languages for modelling an organisation from different perspectives (decision-making, organisational, etc.). It is based on the Sirius Web framework. Languages will be added as development and corrections progress. 
 
 ## Overview
 
-This tool allows you to make diferent enterprise models such as:  
+Current version allows you to make diferent enterprise models such as:  
 * Grai Grid: model to represent the decisional aspect of an organisation. This model includes Grai network
 * Grai network: a sub-model of a grid that describes precisely a decisional activity.
 * Actigram: model to represent  a process according to specific modeling object
