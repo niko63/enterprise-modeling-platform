@@ -1,4 +1,4 @@
-# Modeling web-platform
+# Enterprise Modeling web-platform
 
 Welcome to the Modeling web-platform. It offers several modelling languages for modelling an organisation from different perspectives (decision-making, organisational, etc.). It is based on the Sirius Web framework. Languages will be added as development and corrections progress. 
 
